@@ -2,7 +2,7 @@
 # Online-Banking-system
 Online Banking System in PHP & MySQL.         
 
-Screenshots and description: http://hackwhiz.com/2015/02/online-banking-system-php-mysql/ 
+Based on g33kyrash project
 
 The project’s primary goals consist of:
 
